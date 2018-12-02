@@ -4,9 +4,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Free Web tutorials">
-  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
-  <meta name="author" content="John Doe">
+  <meta name="description" content="KeizrUniversity, the number one choice for higher education">
+  <meta name="keywords" content="Education, University, Learning">
+  <meta name="author" content="Desmond Wallace">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
   <title><%=request.getParameter("pageTitle")%></title>
